@@ -7,6 +7,7 @@ Atualmente estudando HTML, CSS e JavaScript.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalciVitor&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div>
+ Languages and tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Falci-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Falci-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
