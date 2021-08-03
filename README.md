@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Vítor Falci 👋
-Atualmente estudando Analise e Desenvolvimente de Sistemas.
+Cursando Analise e Desenvolvimente de Sistemas.
 Atualmente estudando HTML, CSS e JavaScript.
  <div>
   <a href="https://github.com/FalciVitor">
