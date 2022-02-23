@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vítor Falci 👋
 Cursando Analise e Desenvolvimente de Sistemas.
-Atualmente estudando HTML, CSS e JavaScript.
+Atualmente estudando NodeJS e Typescript.
  <div>
   <a href="https://github.com/FalciVitor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FalciVitor&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
