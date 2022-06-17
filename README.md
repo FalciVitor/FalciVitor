@@ -1,5 +1,5 @@
-### Olá! Eu sou o Vítor Falci 👋
-Cursando Analise e Desenvolvimente de Sistemas.
+### Olá! Eu sou o Vítor Falci 👋 <br/>
+Cursando Analise e Desenvolvimente de Sistemas. <br/>
 Atualmente trabalhando como Estágiario em Desenvolvimento de Sistemas FullStack na U&M Mineração e Construção SA.
  <div>
   <a href="https://github.com/FalciVitor">
