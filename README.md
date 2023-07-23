@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vítor Falci 👋 <br/>
 Cursando Analise e Desenvolvimente de Sistemas. <br/>
-Atualmente trabalhando como Estágiario em Desenvolvimento de Sistemas FullStack na U&M Mineração e Construção SA.
+Atualmente trabalhando com Desenvolvimento de Sistemas FullStack na U&M Mineração e Construção SA.
  <div>
   <a href="https://github.com/FalciVitor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FalciVitor&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
